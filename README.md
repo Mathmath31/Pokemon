@@ -1,4 +1,7 @@
-# Pokemon
+# TPs
+
+#TP1 :
+
 
 //Question 1
 Quel sont les problèmes engendrés par l’implémentation du code de chaque attaque dans la classe?
@@ -15,3 +18,10 @@ Quel sont les problèmes engendrés par cette solution?
 L’agrégation entre les classes Pokemon et Energie a-t-elle une incidence?
 
 ==> Oui, car si un pokémon meurt de décès, l'énergie n’est pas détruite. Elle est conservé.
+
+
+#TP2 :
+
+// Question 1: Quels sont les problèmes engendrés par cette solution ?
+
+// Question 2: Quels sont les problèmes engendrés par cette solution ?
