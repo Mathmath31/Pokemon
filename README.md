@@ -24,4 +24,9 @@ L’agrégation entre les classes Pokemon et Energie a-t-elle une incidence?
 
 // Question 1: Quels sont les problèmes engendrés par cette solution ?
 
+==> 3 flux a afficher donc compliquer a mettre a jour etc... trop de dépendance.
+
+
 // Question 2: Quels sont les problèmes engendrés par cette solution ?
+
+==> Implementer une nouvelle logique sur une logique déja existante.
